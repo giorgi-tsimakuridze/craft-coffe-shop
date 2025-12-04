@@ -1,0 +1,31 @@
+{
+  "ingredients": [
+    {
+      "id": "1",
+      "name": "ნუშის რძე",
+      "price": 3.5,
+      "description": "ორგანიკული ნუშის რძე",
+      "isInStock": true
+    },
+    {
+      "id": "2",
+      "name": "კარამელის სიროფი",
+      "price": 1.5,
+      "description": "ტკბილი კარამელი",
+      "isInStock": true
+    }
+  ],
+  "coffees": [
+    {
+      "id": "101",
+      "title": "კარამელ ლატე",
+      "ingredients": [
+        "1",
+        "2",
+        "3"
+      ],
+      "description": "გემრიელი ცივი ყავა",
+      "isInStock": true
+    }
+  ]
+}
