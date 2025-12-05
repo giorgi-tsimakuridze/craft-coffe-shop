@@ -2,30 +2,47 @@
   "ingredients": [
     {
       "id": "1",
-      "name": "ნუშის რძე",
-      "price": 3.5,
-      "description": "ორგანიკული ნუშის რძე",
+      "name": "კარამელის სიროფი",
+      "price": 2,
+      "description": "",
       "isInStock": true
     },
     {
       "id": "2",
-      "name": "კარამელის სიროფი",
-      "price": 1.5,
-      "description": "ტკბილი კარამელი",
+      "name": "რძე",
+      "price": 1.2,
+      "description": "",
       "isInStock": true
+    },
+    {
+      "id": "3",
+      "name": "შოკოლადის სიროფი",
+      "price": 2,
+      "description": "",
+      "isInStock": false
     }
   ],
   "coffees": [
     {
-      "id": "101",
-      "title": "კარამელ ლატე",
-      "ingredients": [
-        "1",
-        "2",
-        "3"
-      ],
-      "description": "გემრიელი ცივი ყავა",
+      "id": "1764926016779",
+      "title": "sdf",
+      "description": "sdfsdf",
+      "ingredients": ["1"],
       "isInStock": true
+    },
+    {
+      "id": "1764926021579",
+      "title": "234",
+      "description": "",
+      "ingredients": [],
+      "isInStock": false
+    },
+    {
+      "id": "1764926037059",
+      "title": "34",
+      "description": "3",
+      "ingredients": [],
+      "isInStock": false
     }
   ]
 }
